@@ -1,0 +1,8 @@
+nohup: ignoring input
+FATAL Port 4000 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Server.setupListenHandle [as _listen2] (net.js:1330:14)
+    at listenInCluster (net.js:1378:12)
+    at doListen (net.js:1492:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
