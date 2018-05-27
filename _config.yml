@@ -5,10 +5,10 @@ fa_logo: fa-cube
 menu:
   Home: /
   Archives: /archives
-  About: /about.html
+  About: /about
   Tags: /tags
   Categories: /categories
-  Contact: /contact.html
+  Contact: /contact
 
 # Default post title
 default_post_title: twad.club
@@ -26,10 +26,7 @@ google_analytics:
 
 # Social Accounts
 github_url: https://github.com/klugjo/hexo-theme-alpha-dust
-googleplus_url: https://plus.google.com/
-behance_url: https://www.behance.net/
-fivehundredpx_url: https://500px.com/
-email_url: test@example.com
+email_url: mail@twad.club
 rss_url: \#
 
 # Footer About Text
